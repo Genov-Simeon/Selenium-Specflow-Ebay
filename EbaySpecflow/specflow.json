@@ -1,0 +1,17 @@
+{
+  "$schema": "https://specflow.org/specflow-config.json",
+  "bindingCulture": {
+    "name": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "unitTestProvider": {
+    "name": "NUnit"
+  },
+  "stepAssemblies": [
+    {
+      "assembly": "EbayMonopolyTests"
+    }
+  ]
+} 
